@@ -1,0 +1,28 @@
+{
+  "name": "reactjs-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard in Reactjs using Flux architecture with Highcharts and Foundation CSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "react test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmharrel/reactjs-dashboard.git"
+  },
+  "keywords": [
+    "reactjs",
+    "highcharts",
+    "flux",
+    "dashboardjs"
+  ],
+  "author": "Vijay Harrell <vijay.m.harrell@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmharrel/reactjs-dashboard/issues"
+  },
+  "homepage": "https://github.com/vmharrel/reactjs-dashboard",
+  "dependencies": {
+    "grunt-cli": "^0.1.13"
+  }
+}
